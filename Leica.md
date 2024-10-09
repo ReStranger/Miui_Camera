@@ -2,7 +2,7 @@
 <img width="160" src="https://i.imgur.com/jm0M0rG.png" alt="logo">
    <h1>Miui Leica Camera Function Completion-Miui_Camera_Leica</h1>
    <p>
-       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica.md">繁體中文</a>  丨 English</b>
+       <b><a href="https://github.com/a406010503/Miui_Camera/blob/main/Leica_CN.md">繁體中文</a>  丨 English</b>
    </p>
    <a href="https://github.com/a406010503/Miui_Camera/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/a406010503/Miui_Camera/total?label=Downloads"></a>
    <a href="https://github.com/a406010503/Miui_Camera/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/a406010503/Miui_Camera"></a>
@@ -18,17 +18,20 @@
 ---
 
 ## Developer
+
 Main developer: [Holy Bear (@a406010503)](https://github.com/a406010503)<p>
 Assisting developers: [Sevtinge (@Sevtinge)](https://github.com/sevtinge), [Majestic (@kazhemons)](https://github.com/kazhemons)<p>
 Advanced Settings Provider: [Luffitys (@Luffitys)](https://github.com/Luffitys), [RomanYalta (@romanyalta)](https://github.com/romanyalta)<p>
 
 ### Sponsorship page has been opened
+
 - Now, you can support and sponsor us through PayPal to give us the impetus to renew!
-**[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
+  **[Click me to go to the sponsorship page](https://paypal.me/holybear0610)**
 
 ---
 
 ## Why do you charge?
+
 Applicable versions: `1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
 We have spent a lot of time on this project. Usually a large version requires a lot of effort to find obfuscated code, and the labor and time spent on this process is huge.
@@ -37,7 +40,9 @@ You may think that advanced settings and other features are not your work, so wh
 And we're the only ones doing it for now, so if you're willing to join our team and help out every time (with love, and almost weekly), then I'll consider making it all free.
 
 ---
+
 ## Notes on Leica cameras
+
 Applicable versions: `4660, 4700, 4750, 4780, 4870, 0511, 0700, 0761, 0851, 0941, 1110, 1180, 1520, 1620, 1720, 1800, 1970, 2030, 2120, 2370, 2460, 2510, 2540, 2700, 5.0`
 
 First of all, please watch the camera's completion project and some precautions: [Click here to enter](https://github.com/a406010503/Miui_Camera/blob/main/README_en.md)<p>
@@ -58,7 +63,9 @@ I am not responsible for any equipment failures caused by the use of this camera
 ---
 
 ## What is the difference between the official version (Releases) and the trial version (Preview-Dev)?
+
 Mainly in the trial version, the following content has been added:
+
 - New advanced level settings
 - Added lab option
 - KinoUI
@@ -71,11 +78,13 @@ Advanced Settings is an unofficial feature added by Russian authors Luffitys, Ro
 ---
 
 ## About the problem of losing the Leica camera after flashing
+
 As explained above, because Xiaomi is still trying to prevent the installation of Leica cameras, it is recommended that you install the camera in the Core Patch method first. <p>
 You can unzip the camera APK in the package (located in system/priv-app/MiuiCamera.apk) and install it directly by cracking the core <p>
 For example, the module Woobox software of Xposed has the function of Core Patch. It is installed using the "five functions fully open" of the core cracking. If you don't know what it means, it is not recommended for you to use it! <p>
 At present, we also provide TWRP version for users who have failed to install it. It is not recommended to flash in without Root (because there may also be a Core Patch required), if you try to flash in and out of the problem, we will not be responsible for it! <p>
 ※Note: In order to avoid being restored after restarting after installation, please make sure that your camera version is lower than the corresponding Leica camera version. It is recommended that you flash the 3591 stable version first and then try the Core Patch installation! </p>
+
 <p>
 9/2 Update: Since version 4.5.000511.0, the Leica features and the public version of the camera have been merged into the same version, and this problem should no longer exist, but it is still recommended that you install the camera in the Core Patch method.
    
@@ -90,6 +99,7 @@ Please refer to the following two Xposed modules for Core Patch, and make sure y
 ---
 
 ## About the Leica Camera Completion Project
+
 At present, we have tried to complete the functions mentioned in the project for Leica cameras.
 It allows you to experience some functions that are "officially stated that the hardware does not support" on your model to be turned on.
 The specific open function will be notified on the download page of the release!
@@ -105,6 +115,7 @@ The later version added the color grading developed by the color grading team of
 ---
 
 ### Leica Camera License
+
 - Certificate of authorization is issued by [@Sevtinge](https://github.com/Sevtinge), licensed to [Holy Bear (a406010503)](https://github.com/a406010503) and modified twice, unauthorized reproduction, modification, third creation, etc. is strictly prohibited.
 - Certificate number: `2720-1972-8799-1540`
 - This license is valid only for `v4.3.004870.0` version
